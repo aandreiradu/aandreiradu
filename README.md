@@ -1,6 +1,6 @@
 〈〉Hi, i'm Andrei 🙋🏻‍♂️ <br/>
 〈〉WFH 🏡 <br/>
-〈〉I'm interested in : JS,React,NextJS,Node,GraphQL and maaany more! <br/>
+〈〉I'm interested in : JS,React,NextJS,NodeJS,TypeScript,GraphQL and maaany more! <br/>
 〈〉I'm currently learning (more) React <br/>
 
 
