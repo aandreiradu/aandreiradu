@@ -1,4 +1,8 @@
-### Hi there 👋
+〈〉Hi, i'm Andrei 🙋🏻‍♂️ <br/>
+〈〉WFH 🏡 <br/>
+〈〉I'm interested in : JS,React,NextJS,Node,GraphQL and maaany more! <br/>
+〈〉I'm currently learning (more) React <br/>
+
 
 <!--
 **aandreiradu/aandreiradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
