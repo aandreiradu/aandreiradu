@@ -1,7 +1,5 @@
 
-🙋🏻‍♂️ Hi, i'm Andrei <br> 🏡 WFH <br> ⚡️ I'm interested in : JS,React,NextJS,NodeJS,TypeScript,GraphQL and maaany more!
-
-## 🌐 Socials:
+🙋🏻‍♂️ Hi, i'm Andrei <br> 🏡 WFH <br> ⚡️ I'm interested in : JS,React,NodeJS,TypeScript,NextJS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-radu-544b80174/) 
 
